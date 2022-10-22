@@ -1,0 +1,5 @@
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.csproj.CoreCompileInputs.cache
