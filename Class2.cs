@@ -1,4 +1,4 @@
-﻿namespace sharp_21_10_2022_namespase
+﻿namespace wonders
 {
     internal class Second_Wonders
     {
@@ -12,12 +12,12 @@
         public Second_Wonders()
         {
             _name = "Second_Wonders";
-            _description = "Море";
+            _description = "Любовь";
         }
         public void Print()
         {
-            Console.WriteLine("имя класса\t" + _name,
-                "\tпояснение\t" + _description + "\n");
+            Console.WriteLine("имя класса\t" + this._name
+                + "\tпояснение\t" + this._description + "\n");
         }
     }
 }

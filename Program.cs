@@ -9,4 +9,10 @@
 // имен обеспечьте возможность отображенин
 // всех чудес в отдельном классе 23-10-2022 2:00
 
-namespace sharp_21_10_2022_namespase;
+using sharp_21_10_2022_namespase;
+
+All_wanders all_Wanders = new All_wanders();
+Console.WriteLine("Seven wounders of each (Семь чудес света)\n");
+all_Wanders.Print_All_Wounders();
+
+

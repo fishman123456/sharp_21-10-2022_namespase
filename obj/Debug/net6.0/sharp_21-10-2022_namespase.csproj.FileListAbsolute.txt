@@ -3,3 +3,13 @@ C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\
 C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.AssemblyInfoInputs.cache
 C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.AssemblyInfo.cs
 C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\bin\Debug\net6.0\sharp_21-10-2022_namespase.exe
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\bin\Debug\net6.0\sharp_21-10-2022_namespase.deps.json
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\bin\Debug\net6.0\sharp_21-10-2022_namespase.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\bin\Debug\net6.0\sharp_21-10-2022_namespase.dll
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\bin\Debug\net6.0\sharp_21-10-2022_namespase.pdb
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.dll
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\refint\sharp_21-10-2022_namespase.dll
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.pdb
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\sharp_21-10-2022_namespase.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\sharp_21-10-2022_namespase\obj\Debug\net6.0\ref\sharp_21-10-2022_namespase.dll
